@@ -60,7 +60,7 @@
 
 /****************Seccion 1 Bloque 1****************/
 .contenedor__Section1{
-    background-image: url("img/imgHeader.jpg");
+    background-image: url("../img/imgHeader.jpg");
     background-position: center;
     background-size: cover;
     height: 64vh;
